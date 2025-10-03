@@ -1,6 +1,6 @@
 # Sign Up Page
 
-A minimal, responsive sign‑up page built with HTML, CSS and JavaScript.
+A clean, responsive sign-up form project using HTML, CSS, JavaScript, and Bootstrap; includes client-side validation, API-driven data lookups, username availability checks, and password suggestions.
 
 - **Live demo:** https://www.r-siddiq.tech/Sign-Up-Page/
 - **Additional context:** https://www.rsiddiq.com/internet-programming.html
