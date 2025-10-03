@@ -54,7 +54,7 @@ Some browsers throttle local assets. Use a simple local server:
   Follow the printed URL.
 
 ### 2) Visit Demo Site
-  - https://www.r-siddiq.tech/Pop-Quiz/
+  - https://www.r-siddiq.tech/Sign-Up-Page/
 
 ---
 
